@@ -24,14 +24,14 @@ v) The function make_comic_pdf creates a pdf from the comic page achieved from t
 
 English version -->
 
-<img width="559" alt="Screen Shot 2022-07-08 at 4 18 27 PM" src="https://user-images.githubusercontent.com/91014176/178064978-50a80511-fd49-4a5f-8220-4895a568eeb8.png">
+<img width="571" alt="Screen Shot 2022-07-08 at 4 27 30 PM" src="https://user-images.githubusercontent.com/91014176/178065933-cd54a666-d4fe-422b-891c-e80b600f9834.png">
 
-<img width="558" alt="Screen Shot 2022-07-08 at 4 18 50 PM" src="https://user-images.githubusercontent.com/91014176/178065027-9dd95205-3b79-440b-a482-fd932333fab7.png">
+<img width="571" alt="Screen Shot 2022-07-08 at 4 27 45 PM" src="https://user-images.githubusercontent.com/91014176/178065944-66f7f829-2d82-42ed-8cba-986b1647c82e.png">
 
 Hindi version -->
 
-<img width="556" alt="Screen Shot 2022-07-08 at 4 22 28 PM" src="https://user-images.githubusercontent.com/91014176/178065134-6bd53abd-a26d-4670-82ac-e82220f7b6bd.png">
+<img width="570" alt="Screen Shot 2022-07-08 at 4 28 45 PM" src="https://user-images.githubusercontent.com/91014176/178065984-24a96ee8-6601-438f-8d61-d1aba8e4ba63.png">
 
-<img width="558" alt="Screen Shot 2022-07-08 at 4 20 40 PM" src="https://user-images.githubusercontent.com/91014176/178064999-ac4f4939-e668-4605-baf3-9d2e46d3a973.png">
+<img width="570" alt="Screen Shot 2022-07-08 at 4 28 27 PM" src="https://user-images.githubusercontent.com/91014176/178065968-e6fde13c-a4aa-4d1c-a538-bcf42d2b1136.png">
 
 
